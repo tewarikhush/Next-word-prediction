@@ -1,1 +1,1 @@
-# Next-word-prediction-moddels
+# Next-word-prediction-models
